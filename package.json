@@ -1,5 +1,5 @@
 {
-  "name": "react-tippy",
+  "name": "react-tippy-ie11-fix",
   "version": "1.2.1",
   "description": "React tippy",
   "main": "dist/react-tippy.js",
@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tvkhoa/react-tippy.git"
+    "url": "https://github.com/jlek/react-tippy.git"
   },
   "bugs": {
-    "url": "https://github.com/tvkhoa/react-tippy/issues"
+    "url": "https://github.com/jlek/react-tippy/issues"
   },
-  "homepage": "https://github.com/tvkhoa/react-tippy",
+  "homepage": "https://github.com/jlek/react-tippy",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-core": "^6.24.0",
